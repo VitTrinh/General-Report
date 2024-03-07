@@ -1,4 +1,4 @@
-Dựa vào file dữ liệu thô (file CSDL) xuất từ phần mềm, tôi làm sạch và chuyển đổi dữ liệu để thực hiện các yêu cầu bên dưới trên nền tảng Power BI và Excel (dashboard):<br>
+Dựa vào file dữ liệu thô (file CSDL) xuất từ phần mềm, tôi làm sạch và chuyển đổi dữ liệu để thực hiện các yêu cầu dưới đây trên nền tảng Power BI và Excel (dashboard):<br>
 - Tổng hợp số liệu doanh thu theo tháng<br>
 - Tổng hợp và so sánh số liệu doanh thu theo nhóm<br>
 - Chỉ ra 3 nhân viên có doanh thu cao nhất<br>
