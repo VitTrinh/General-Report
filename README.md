@@ -7,7 +7,7 @@ Dựa vào file dữ liệu thô (file CSDL) xuất từ phần mềm, tôi làm
 - Lọc ra 5 khách hàng có lượt mua nhiều nhất<br>
 - Tạo các Slicer để lọc thông tin theo từng nhóm và từng tháng<br><br>
 <b>Cách thực hiện:</b><br>
-- Excel:  Sử dụng các thủ thuật, các hàm trong excel để hoàn thiện file data, làm cơ sở cho việc phân tích.
+- Excel:  Sử dụng các thủ thuật, các hàm trong excel để hoàn thiện file data, làm cơ sở cho việc phân tích.<br>
           Dùng pivot table để tổng hợp số liệu và xây dựng doashboard để trình bày kết quả phân tích.<br>
-- Power BI: Làm sạch, chuyển đổi và hoàn thiện dữ liệu trong Power Query. Sử dụng các công thức DAX để bổ sung dữ liệu cho phân tích.
+- Power BI: Làm sạch, chuyển đổi và hoàn thiện dữ liệu trong Power Query. Sử dụng các công thức DAX để bổ sung dữ liệu cho phân tích.<br>
             Biến dữ liệu thành thông tin chi tiết mang tính tương tác, hữu ích với các báo cáo và hình ảnh trực quan.
